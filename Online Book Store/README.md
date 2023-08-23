@@ -5,6 +5,6 @@ An online book store implemented in Java, offering a wide range of books across 
 
 
 ```bash
-javac App.java
-java App
+javac Main.java
+java Main
 ```
